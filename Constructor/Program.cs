@@ -50,7 +50,7 @@ namespace Constructor
               Console.WriteLine(rec2.DisplayDetails()); */
 
             //(employee)
-            EmployeeSalary emp1 = new EmployeeSalary(75000,"neha",200);
+            EmployeeSalary emp1 = new EmployeeSalary(75000, "neha", 200);
             emp1.CalculateSalary();
             Console.WriteLine(emp1.DisplayDetails());
 

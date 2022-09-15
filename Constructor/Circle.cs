@@ -10,7 +10,7 @@ namespace Constructor
 {
     internal class Circle
     {
-        double r,area;
+        double r, area;
         public Circle()
         {
             r=2;

@@ -10,7 +10,7 @@ namespace Constructor
 {
     internal class Student
     {
-         int rollno,sub1,sub2,sub3,marks;
+        int rollno, sub1, sub2, sub3, marks;
          string name;
          double percentage;
         public Student()
